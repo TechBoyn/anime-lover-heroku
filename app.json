@@ -1,6 +1,6 @@
 {
-  "name": "libDrive",
-  "description": "libDrive is a Google Drive media library manager and indexer, similar to Plex, that organizes Google Drive media to offer an intuitive and user-friendly experience.",
+  "name": "anime-lover",
+  "description": "anime-lover is a Google Drive media library manager and indexer, similar to Plex, that organizes Google Drive media to offer an intuitive and user-friendly experience.",
   "keywords": [
     "heroku",
     "movies",
@@ -15,10 +15,10 @@
     "cloudflare-workers",
     "goindex",
     "gindex",
-    "libdrive"
+    "anime-lover"
   ],
-  "website": "https://github.com/libDrive/libDrive",
-  "repository": "https://github.com/libDrive/libDrive",
+  "website": "https://github.com/TechBoyn/anime-lover",
+  "repository": "https://github.com/TechBoyn/anime-lover",
   "logo": "https://avatars2.githubusercontent.com/u/75073550?v=4",
   "success_url": "/",
   "env": {
